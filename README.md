@@ -1,5 +1,5 @@
 # Menganalisis Risiko Gagal Bayar Peminjam
-&nbsp;&nbsp;Pengaruh status perkawinan seorang nasabah dan jumlah anak yang dimilikinya terhadap probabilitas gagal bayar dalam pelunasan pinjaman.
+&nbsp;&nbsp;Analisa terhadap pengaruh status perkawinan seorang nasabah dan jumlah anak yang dimilikinya terhadap probabilitas gagal bayar dalam pelunasan pinjaman.
 
 &nbsp;&nbsp;Laporan digunakan untuk divisi kredit suatu bank. Tujuannya adalah untuk mencari tahu pengaruh status perkawinan seorang nasabah dan jumlah anak yang dimilikinya terhadap probabilitas gagal bayar dalam pelunasan pinjaman. Pihak bank sudah memiliki beberapa data mengenai kelayakan kredit nasabah.
 
